@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qzssrG4lAm .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-qzssrG4lAm .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #000000;
 }
 .cid-qzssrG4lAm a {
   font-style: normal;
@@ -1426,7 +1426,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qzssrG4lAm .dropdown .dropdown-menu {
-  background: #232323;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1497,7 +1497,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-qzssrG4lAm button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
